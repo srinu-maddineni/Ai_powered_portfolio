@@ -1,0 +1,226 @@
+# Srinu Maddineni — Portfolio
+
+## Identity and Overview
+
+The name of this portfolio is Srinu Maddineni's Portfolio.
+The owner of this portfolio is Srinu Maddineni.
+This portfolio belongs to Srinu Maddineni.
+Srinu Maddineni is a Software Engineer and Full-Stack Developer.
+He specializes in the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Srinu Maddineni graduated with a B.Tech in Electronics and Communication Engineering in May 2026 from Lendi Institute of Engineering and Technology, Vizianagaram, India.
+His CGPA is 7.2 out of 10.
+
+## Professional Profile
+
+Srinu Maddineni is a Software Engineer and Full-Stack Developer specializing in the MERN stack.
+He has hands-on software engineering experience from his internship at Tilicho Labs (January 2026 – May 2026), where he worked across the full Software Development Life Cycle including database schema design, REST API development, React integration, JWT authentication, testing, and production deployment.
+His core technologies include JavaScript (ES6+), TypeScript, Python, React.js, Node.js, Express.js, MongoDB, Mongoose, REST APIs, Socket.IO, Tailwind CSS, JWT, Bcrypt.js, HttpOnly Cookies, and RBAC.
+
+## Contact Information
+
+Full Name: Srinu Maddineni
+Email: maddinenis76@gmail.com
+Phone: 8374428832
+LinkedIn: https://www.linkedin.com/in/srinu-maddineni-aa6835290/
+GitHub: https://github.com/srinu-maddineni
+LeetCode: https://leetcode.com/u/srinu_maddineni/
+Portfolio Website: https://srinu-maddineni.github.io/Portfolio/
+
+To contact Srinu Maddineni, email him at maddinenis76@gmail.com or call 8374428832.
+His LinkedIn profile is https://www.linkedin.com/in/srinu-maddineni-aa6835290/
+His GitHub is https://github.com/srinu-maddineni
+
+## Education
+
+Srinu Maddineni completed a Bachelor of Technology (B.Tech) in Electronics and Communication Engineering (ECE) from Lendi Institute of Engineering and Technology, Vizianagaram, India.
+CGPA: 7.2 / 10
+Graduation Year: May 2026
+College: Lendi Institute of Engineering and Technology
+Degree: B.Tech in ECE (Electronics and Communication Engineering)
+
+## Technical Skills
+
+### Programming Languages
+Srinu Maddineni's programming languages are JavaScript (ES6+), TypeScript, and Python.
+He is proficient in JavaScript, TypeScript, and Python.
+
+### Frontend Development
+Srinu works with React.js, HTML5, CSS3, and Tailwind CSS.
+His frontend skills include building reusable React components, modular state management, analytics dashboards, real-time UI, and REST API integration.
+
+### Backend Development
+Srinu works with Node.js and Express.js to build REST APIs.
+His backend skills include API development, JWT authentication, RBAC authorization, database integration, Socket.IO real-time communication, sandboxed code execution, and production deployment.
+
+### Database
+Srinu has experience with MongoDB and Mongoose.
+His database skills include schema design, CRUD operations, session persistence, compound indexes, projection filters, and MongoDB query optimization.
+
+### Authentication and Security
+Srinu has experience with JWT authentication, Role-Based Access Control (RBAC), Bcrypt.js password hashing, HttpOnly cookies, and OTP-based email verification.
+
+### Tools and Platforms
+Srinu uses Git, GitHub, Postman, and Visual Studio Code.
+He has experience with Vercel for deployment.
+
+### Software Engineering Concepts
+Srinu knows Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Agile/Scrum methodology, Software Development Life Cycle (SDLC), unit testing, and integration testing.
+
+## Work Experience
+
+### Tilicho Labs — Software Engineer Intern
+
+Company: Tilicho Labs
+Role: Software Engineer Intern — Full Stack Development (MERN)
+Location: Visakhapatnam, India
+Duration: January 2026 – May 2026
+
+Srinu Maddineni worked as a Software Engineer Intern at Tilicho Labs from January 2026 to May 2026.
+He focused on full-stack MERN development across the Software Development Life Cycle.
+
+Key achievements at Tilicho Labs:
+- Developed and deployed more than 3 full-stack features per sprint using React.js, Node.js, Express.js, and MongoDB.
+- Implemented JWT authentication and Role-Based Access Control (RBAC) across more than 10 API endpoints.
+- Optimized MongoDB queries using compound indexes and projection filters, reducing average response latency by approximately 40 percent on data-intensive endpoints.
+- Built a reusable React component library with modular state management, reducing UI development effort by approximately 30 percent across more than 5 feature modules.
+- Responsibilities included database schema design, REST API implementation, testing, and production deployment.
+
+Srinu holds a Full-Stack Web Development Internship Certificate from Tilicho Labs for the period January 2026 – May 2026.
+
+## Projects
+
+### InterviewPrep AI
+
+Project Name: InterviewPrep AI
+Type: AI-powered mock interview simulator
+Technologies: React.js, Node.js, Express.js, MongoDB, Google Gemini API, Web Audio API
+Development Period: April 2026 – May 2026
+Deployment: Vercel
+
+InterviewPrep AI is an AI-powered mock interview simulator built by Srinu Maddineni.
+It simulates job interviews, evaluates user responses using Google Gemini AI, provides AI-generated feedback, and tracks performance across repeated sessions.
+The application uses real-time speech capture via the Web Audio API.
+It includes a REST API and MongoDB-backed session persistence so users can compare performance over time.
+A React analytics dashboard tracks more than 5 performance metrics.
+Users reported up to 25 percent improvement in scores across repeated interview sessions.
+The project is deployed on Vercel.
+
+### DevArena
+
+Project Name: DevArena
+Type: Real-time collaborative coding platform
+Technologies: React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS, Bcrypt.js
+Development Period: January 2026 – March 2026
+
+DevArena is a real-time collaborative coding platform built by Srinu Maddineni.
+It provides real-time code synchronization, sandboxed code execution, JWT authentication, password security using Bcrypt, and OTP-based email verification.
+
+DevArena — Real-Time Synchronization:
+Srinu implemented Socket.IO for real-time code synchronization.
+A 2-second debounce mechanism reduced MongoDB write operations by approximately 85 percent while keeping collaborative editing responsive.
+
+DevArena — Code Execution:
+DevArena includes sandboxed code execution using Node.js Child Processes.
+A 5-second execution timeout prevents long-running processes.
+Temporary file cleanup is performed after every execution.
+
+DevArena — Authentication:
+DevArena uses stateless JWT authentication with HttpOnly cookies.
+Passwords are protected using Bcrypt hashing.
+Multi-step OTP-based email verification is included for account security.
+
+### Flashman
+
+Project Name: Flashman
+Type: AI-powered technical interview simulator
+Repository: https://github.com/srinu-maddineni (public repository)
+Technologies: React 19, Vite, JavaScript, Tailwind CSS, React Router, React Context API, Axios, Web Speech API, Node.js, Express, MongoDB/Mongoose, Google Gemini 2.5 Flash, Nodemailer/Brevo SMTP, JWT, BCrypt.js, HttpOnly Cookies.
+
+Flashman is an AI-powered technical interview simulator built by Srinu Maddineni.
+Features include AI-generated technical questions, speech-to-text, text-to-speech, audio visualization, performance dashboards, AI feedback, and speech pace analysis.
+
+### Netflix Clone
+
+Project Name: Netflix Clone
+Type: Frontend clone project
+Technologies: React.js, Vite
+Repository: https://github.com/srinu-maddineni (public repository)
+
+Netflix Clone is a frontend project built by Srinu Maddineni using React and Vite.
+
+## LeetCode
+
+LeetCode Username: srinu_maddineni
+LeetCode Profile: https://leetcode.com/u/srinu_maddineni/
+
+Srinu Maddineni has solved 549 LeetCode problems in total.
+Easy problems solved: 252
+Medium problems solved: 277
+Hard problems solved: 20
+
+Contest Rating: 1491
+Global Ranking: 176,306
+Contests Attended: 9
+Top Percentage: 47.53%
+
+Srinu had 883 submissions in the past year, was active for 234 days, and achieved a maximum streak of 138 consecutive days.
+He has earned 4 badges, including the 200 Days Badge 2026.
+He actively practices Data Structures and Algorithms (DSA) for interview preparation.
+
+## Certifications
+
+Srinu holds a Full-Stack Web Development Internship Certificate from Tilicho Labs.
+Certificate Duration: January 2026 – May 2026.
+
+## GitHub
+
+GitHub Username: srinu-maddineni
+GitHub Profile: https://github.com/srinu-maddineni
+
+Srinu Maddineni's GitHub profile highlights interests in software development, problem solving, full-stack web development, system design, automation, React, Node.js, Docker, Redis, Playwright, and scalable applications.
+He focuses on production-style projects, backend and system design, and deployment/cloud fundamentals.
+
+## Career Interests and Goals
+
+Srinu Maddineni is looking for roles such as:
+- Software Engineer (SDE)
+- Full-Stack Developer
+- MERN Stack Developer
+- Frontend Developer
+- Backend Developer
+- Software Application Developer
+
+He wants to apply his JavaScript, React.js, Node.js, Express.js, MongoDB, REST API, and DSA problem-solving skills.
+He is focused on growing his backend engineering and software development expertise.
+
+## Strengths
+
+Srinu Maddineni's key strengths are:
+- MERN full-stack development (MongoDB, Express.js, React.js, Node.js)
+- React.js frontend development including reusable components
+- Node.js and Express.js REST API development
+- MongoDB query optimization
+- JWT and RBAC authentication implementation
+- Socket.IO real-time applications
+- Google Gemini AI integration
+- DSA problem solving (549 LeetCode problems solved)
+- Agile/Scrum and SDLC knowledge
+- Independent problem solving and learning new technologies quickly
+
+## Hobbies and Personal Interests
+
+Srinu Maddineni enjoys exploring new technologies, learning continuously, meeting new people, and solving technical and programming challenges.
+
+## Summary (Quick Reference)
+
+- Full Name: Srinu Maddineni
+- Role: Software Engineer / Full-Stack (MERN) Developer
+- College: Lendi Institute of Engineering and Technology, B.Tech ECE, CGPA 7.2, May 2026
+- Internship: Software Engineer Intern at Tilicho Labs (Jan 2026 – May 2026)
+- Projects: InterviewPrep AI, DevArena, Flashman, Netflix Clone
+- LeetCode: 549 problems solved (252 Easy, 277 Medium, 20 Hard), Rating 1491
+- Skills: JavaScript, TypeScript, Python, React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, RBAC
+- Email: maddinenis76@gmail.com | Phone: 8374428832
+- Portfolio: https://srinu-maddineni.github.io/Portfolio/
+- GitHub: https://github.com/srinu-maddineni
+- LinkedIn: https://www.linkedin.com/in/srinu-maddineni-aa6835290/
