@@ -1,0 +1,96 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+env/
+ENV/
+.venv/
+.env/
+venv.bak/
+
+# ========================
+# Environment Variables
+# ========================
+.env
+.env.local
+.env.*.local
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# Logs & Temp Files
+# ========================
+*.log
+*.tmp
+*.bak
+logs/
+
+# ========================
+# Testing
+# ========================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ========================
+# Vector DB / ML Artifacts
+# ========================
+chroma_db/
+*.faiss
+*.index
+*.pkl
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# ========================
+# Node (if frontend exists)
+# ========================
+node_modules/
+.next/
+dist/
+.nuxt/
+
+# ========================
+# Jupyter Notebooks
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# OS
+# ========================
+.DS_Store
+desktop.ini
